@@ -1,6 +1,6 @@
 {
-	"name": "Hello World",
-	"short_name": "Hello",
+	"name": "State Birds",
+	"short_name": "Birds",
 	"icons": [{
 		"src": "images/hello-icon-128.png",
 		"sizes": "128x128",
@@ -38,7 +38,7 @@
 		"purpose": "any"
 	}],
 	"lang": "en-US",
-	"start_url": "/PWA0022/index.html",
+	"start_url": "/PWA0122/index.html",
 	"display": "standalone",
 	"prefer_related_applications": false,
 	"background_color": "white",
