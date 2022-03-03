@@ -41,6 +41,26 @@
 		"sizes": "512x512",
 		"type": "image/png",
 		"purpose": "any"
+	}, {
+		"src": "images/CaliGull.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "any"
+	},{
+		"src": "images/Chicken.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "any"
+	},{
+		"src": "images/Meadowlark.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "any"
+	},{
+		"src": "images/Mockingbird.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "any"
 	}],
 	"lang": "en-US",
 	"start_url": "/PWA0122/index.html",
