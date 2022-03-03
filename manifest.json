@@ -36,6 +36,11 @@
 		"sizes": "512x512",
 		"type": "image/png",
 		"purpose": "any"
+	}, {
+		"src": "images/Cardinal.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "any"
 	}],
 	"lang": "en-US",
 	"start_url": "/PWA0122/index.html",
