@@ -1,6 +1,6 @@
 
 function regSW(){
-  if('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('./sw.js');
+  if('ServiceWorker' in navigator) {
+    navigator.ServiceWorker.register('./sw.js');
   }
 }
